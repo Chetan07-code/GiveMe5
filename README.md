@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+Random Word Guessing App
 
 Live demo:
 
+### [Live Site](https://giveme5.netlify.app/)
