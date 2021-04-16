@@ -1,0 +1,12 @@
+.Category {
+  text-transform: uppercase;
+  color: white;
+  padding: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .Category {
+    font-size: x-large;
+    padding: 0.5rem;
+  }
+}

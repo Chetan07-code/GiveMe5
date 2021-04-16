@@ -1,0 +1,13 @@
+.Flag {
+  cursor: pointer;
+  display: inline-block;
+  padding: 1rem;
+  background: transparent;
+  border: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .Flag {
+    padding: 0.3rem;
+  }
+}
